@@ -68,7 +68,7 @@
 - [Taniya Souza](https://github.com/chemicoholic21)
 - [Karanjot Singh](https://github.com/karanjot786)
 - [Saathwika Dhenuvakonda](https://github.com/saathwikad)
-- [Mats Muller](https://github.com/AM800Mats)
+- [Gayatri Yewale](https://github.com/AM800Mats)
 - [Jervin Alejandro](https://github.com/JervinAlejandro)
 - [TheBlessing33](https://github.com/theblessing33)
 - [Fixito](https://github.com/Fixito)
